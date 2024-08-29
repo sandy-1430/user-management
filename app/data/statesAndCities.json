@@ -1,0 +1,13 @@
+{
+    "states": [
+      {
+        "name": "Tamil Nadu",
+        "cities": ["Chennai", "Madurai", "Coimbatore", "Trichy"]
+      },
+      {
+        "name": "Karnataka",
+        "cities": ["Bangalore", "Mangaluru", "Belagavi"]
+      }
+    ]
+  }
+  
